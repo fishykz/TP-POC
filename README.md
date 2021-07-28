@@ -10,5 +10,10 @@ This vulnerability happen when ``httpProcDataSrv`` receive a data in json format
 
 ![](1.png)
 
-![image-20210728095522755](C:\Users\ASUS\Desktop\wdr7660\2.png)
+![image-20210728095522755](2.png)
 
+### Timeline
+2021.7.27 report to CVE and TP-Link
+
+### Acknowledgment
+Credit to @H4lo from Hatlab at dbappsecurity.
