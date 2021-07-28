@@ -26,6 +26,7 @@ response = s.post("http://%s/ds" %ip, data=data)
 print("Status code:   %i" % response.status_code)
 print("Response body: %s" % response.content)
 ```
+
 ### Timeline
 2021.7.27 report to CVE and TP-Link
 
