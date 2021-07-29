@@ -13,6 +13,9 @@ This vulnerability happen when ``httpProcDataSrv`` receive a data in json format
 ![image-20210728095522755](2.png)
 
 ### Poc
+poc&exp
+
+***It's for WDR8660***
 ```python3
 import sys
 import requests
