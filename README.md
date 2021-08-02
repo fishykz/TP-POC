@@ -16,7 +16,7 @@ This vulnerability happen when ``httpProcDataSrv`` receive a data in json format
 Refer to this video: [wdr7660.mp4](./wdr7660.mp4)
 poc&exp
 
-***It's for WDR8660***
+***It's for WDR7660***
 ```python3
 import sys
 import requests
