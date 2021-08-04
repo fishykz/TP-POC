@@ -33,6 +33,6 @@ print("Response body: %s" % response.content)
 
 ### Timeline
 2021.7.27 report to CVE and TP-Link
-
+2021.8.4 TP-LINK's security department has been in touch with me.
 ### Acknowledgment
 Credit to [@H4lo](https://github.com/H4lo) from Hatlab at dbappsecurity.
